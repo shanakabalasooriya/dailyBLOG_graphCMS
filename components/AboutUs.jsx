@@ -17,7 +17,7 @@ const AboutUs = () => {
           <TiSocialLinkedin size={50}/>
       </div> 
       <div className='text-gray-800'>
-        <h4 className='flex font-semibold  pt-3'>@ 2022 | All Rights Reserved</h4>
+        <h4 className='flex font-semibold  pt-3'>{`@ 2022 | All Rights Reserved`}</h4>
       </div>
       
     </div>
